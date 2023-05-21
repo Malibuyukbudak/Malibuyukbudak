@@ -10,6 +10,7 @@
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -25,4 +26,3 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/malibuyukbudak/"><img src="https://img.shields.io/badge/-Muhammed%20Ali%20Buyukbudak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/malibuyukbudak"><img src="https://img.shields.io/badge/-@malibuyukbudak-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
